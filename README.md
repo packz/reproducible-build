@@ -12,3 +12,8 @@ Example:
     $ ./build.sh hello-2.9 r1
     $ ./build.sh hello-2.9 r2
     $ ./misc/diffp r1/hello_2.9-1_amd64.changes r2/hello_2.9-1_amd64.changes
+
+Links
+-----
+
+ - http://layer-acht.org/thinking/blog/20140925-reproducible-builds/
