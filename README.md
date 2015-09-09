@@ -17,3 +17,4 @@ Links
 -----
 
  - http://layer-acht.org/thinking/blog/20140925-reproducible-builds/
+ - How to make your software build reproducibly [youtube](https://www.youtube.com/watch?v=IAw5vSNSxdI)
